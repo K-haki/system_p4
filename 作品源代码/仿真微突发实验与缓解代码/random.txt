@@ -1,0 +1,36 @@
+Connecting to host 10.0.0.3, port 5201
+[  8] local 10.0.0.1 port 45166 connected to 10.0.0.3 port 5201
+[ 10] local 10.0.0.1 port 45168 connected to 10.0.0.3 port 5201
+[ 12] local 10.0.0.1 port 45170 connected to 10.0.0.3 port 5201
+[ 14] local 10.0.0.1 port 45172 connected to 10.0.0.3 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  8]   0.00-50.00  sec  82.3 MBytes  13.8 Mbits/sec  291    369 KBytes       
+[ 10]   0.00-50.00  sec  82.9 MBytes  13.9 Mbits/sec  227    360 KBytes       
+[ 12]   0.00-50.00  sec   106 MBytes  17.7 Mbits/sec  392    111 KBytes       
+[ 14]   0.00-50.00  sec   119 MBytes  20.0 Mbits/sec  310    775 KBytes       
+[SUM]   0.00-50.00  sec   390 MBytes  65.5 Mbits/sec  1220             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  8]  50.00-100.00 sec  84.9 MBytes  14.2 Mbits/sec   62    849 KBytes       
+[ 10]  50.00-100.00 sec  93.1 MBytes  15.6 Mbits/sec  169    535 KBytes       
+[ 12]  50.00-100.00 sec  91.2 MBytes  15.3 Mbits/sec  213    784 KBytes       
+[ 14]  50.00-100.00 sec   111 MBytes  18.7 Mbits/sec  257    775 KBytes       
+[SUM]  50.00-100.00 sec   381 MBytes  63.9 Mbits/sec  701             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  8] 100.00-150.02 sec  67.5 MBytes  11.3 Mbits/sec  279   9.23 KBytes       
+[ 10] 100.00-150.02 sec  50.8 MBytes  8.52 Mbits/sec  211   9.23 KBytes       
+[ 12] 100.00-150.02 sec  41.2 MBytes  6.92 Mbits/sec  271   9.23 KBytes       
+[ 14] 100.00-150.02 sec  55.0 MBytes  9.22 Mbits/sec  247   9.23 KBytes       
+[SUM] 100.00-150.02 sec   215 MBytes  36.0 Mbits/sec  1008             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  8] 150.02-200.04 sec  0.00 Bytes  0.00 bits/sec    2   9.23 KBytes       
+[ 10] 150.02-200.04 sec  0.00 Bytes  0.00 bits/sec    2   9.23 KBytes       
+[ 12] 150.02-200.04 sec  0.00 Bytes  0.00 bits/sec    2   9.23 KBytes       
+[ 14] 150.02-200.04 sec  0.00 Bytes  0.00 bits/sec    2   9.23 KBytes       
+[SUM] 150.02-200.04 sec  0.00 Bytes  0.00 bits/sec    8             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  8] 200.04-250.04 sec  0.00 Bytes  0.00 bits/sec    0   9.23 KBytes       
+[ 10] 200.04-250.04 sec  0.00 Bytes  0.00 bits/sec    0   9.23 KBytes       
+[ 12] 200.04-250.04 sec  0.00 Bytes  0.00 bits/sec    1   9.23 KBytes       
+[ 14] 200.04-250.04 sec  0.00 Bytes  0.00 bits/sec    0   9.23 KBytes       
+[SUM] 200.04-250.04 sec  0.00 Bytes  0.00 bits/sec    1             
+iperf3: error - unable to write to stream socket: Broken pipe

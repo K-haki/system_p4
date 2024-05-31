@@ -1,0 +1,33 @@
+{
+  "name": "challenge-linxi",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@formkit/auto-animate": "1.0.0-beta.6",
+    "@kjgl77/datav-vue3": "^1.5.0",
+    "@vueuse/core": "^10.1.2",
+    "dayjs": "^1.11.8",
+    "echarts": "^5.4.2",
+    "lodash-es": "^4.17.21",
+    "remixicon": "^3.3.0",
+    "vis-network": "^9.1.6",
+    "vue": "^3.2.47",
+    "vue-echarts": "^6.5.5",
+    "vue-router": "^4.2.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "autoprefixer": "^10.4.14",
+    "naive-ui": "^2.34.4",
+    "postcss": "^8.4.23",
+    "tailwindcss": "^3.3.2",
+    "vite": "^4.3.2",
+    "vite-plugin-pages": "^0.30.1"
+  }
+}
